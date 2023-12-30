@@ -1,7 +1,7 @@
-import React from "react";
+import React from 'react'
 
 export default function Loading() {
   return (
-    <div className="absolute top-0 left-0 w-screen h-screen bg-white"></div>
-  );
+    <div className='absolute left-0 top-0 h-screen w-screen bg-white'></div>
+  )
 }
